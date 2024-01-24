@@ -1,0 +1,2 @@
+# Predicting_Homework_Grades_from_ChatGPT_Interactions_with_Machine_Learning
+Machine Learning Project: Predicting Homework Grades from ChatGPT Interactions 
